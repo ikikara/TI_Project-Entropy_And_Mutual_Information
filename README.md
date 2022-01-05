@@ -28,7 +28,7 @@ Consists in develop a program that make a study about entropy, redundancy and mu
 [WARNING] Python 3.9 and the libraries refered must be installed <br>
 You have one way to run this project:
 1. Using Terminal
-    - Download the files in src e data_set folder
+    - Download the files in src and data_set folder
     - Put in a folder the files from this previous folders
     - Navigate to the folder created
     - And then execute the following command on terminal: 
