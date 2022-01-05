@@ -32,9 +32,9 @@ You have one way to run this project:
     - Put in a folder the files from this previous folders
     - Navigate to the folder created
     - And then execute the following command on terminal: 
-    ```shellscript
-    [your-disk]:[name-path]> python main.py
-    ```
+        ```shellscript
+        [your-disk]:[name-path]> python main.py
+        ```
 
 ## Notes important to read:
    - In this repository I have a version of this work from 2019 and from 2020. The way to run this 2 versions it's the same
