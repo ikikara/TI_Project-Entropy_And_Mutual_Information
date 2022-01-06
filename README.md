@@ -10,7 +10,7 @@
 - [Authors](#authors)
 
 ## Description
-This project was developed for Information Theory subject @University of Coimbra, Informatics Engineering <br>
+This was the 1st project developed for Information Theory subject @University of Coimbra, Informatics Engineering <br>
 Consists in develop a program that make a study about entropy, redundancy and mutual information of different types of files (txt, wav, bmp).<br>
 
 #### Main Languages:
