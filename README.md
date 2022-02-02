@@ -2,7 +2,7 @@
 
 - [x] Finished
 
-## Index
+## Index:
 - [Description](#description)
 - [Technologies used](#technologies-used)
 - [To run this project](#to-run-this-project)
