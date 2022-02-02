@@ -41,3 +41,4 @@ You have one way to run this project:
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
+- [Pedro Martins](https://github.com/PedroMartinsUC)
