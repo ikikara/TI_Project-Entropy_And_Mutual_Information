@@ -37,7 +37,7 @@ You have one way to run this project:
         ```
 
 ## Notes important to read:
-   - In this repository I have a version of this work from 2019 and from 2020. The way to run this 2 versions it's the same
+   - In this repository I have a version of this work from 2020 and from 2021. The way to run this 2 versions it's the same
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
