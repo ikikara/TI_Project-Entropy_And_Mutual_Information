@@ -40,5 +40,5 @@ You have one way to run this project:
    - In this repository I have a version of this work from 2020 and from 2021. The way to run this 2 versions it's the same
 
 ## Authors:
-- [João Silva](https://github.com/ikikara)
+- [João Silva](https://github.com/joaosilva21)
 - [Pedro Martins](https://github.com/PedroMartinsUC)
